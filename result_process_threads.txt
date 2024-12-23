@@ -1,0 +1,19 @@
+number of request=1 number of threads=2 processes=2
+number of request=2 number of threads=2 processes=2
+number of request=4 number of threads=2 processes=2
+number of request=6 number of threads=2 processes=2
+number of request=8 number of threads=2 processes=2
+number of request=9 number of threads=2 processes=2
+number of request=1 number of threads=4 processes=4
+number of request=2 number of threads=4 processes=4
+number of request=4 number of threads=4 processes=4
+number of request=6 number of threads=4 processes=4
+number of request=8 number of threads=4 processes=4
+number of request=9 number of threads=4 processes=4
+number of request=1 number of threads=6 processes=6
+number of request=4 number of threads=6 processes=6
+number of request=6 number of threads=6 processes=6
+number of request=8 number of threads=6 processes=6
+number of request=9 number of threads=6 processes=6 
+
+

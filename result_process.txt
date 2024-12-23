@@ -1,0 +1,20 @@
+number of request=1 number of processes=2 Time taken by program is : 84 sec
+number of request=2 number of processes=2 Time taken by program is : 42 sec
+number of request=4 number of processes=2 Time taken by program is : 218 sec
+number of request=6 number of processes=2 Time taken by program is : 232 sec
+number of request=8 number of processes=2 Time taken by program is : 224 sec
+number of request=9 number of processes=2 Time taken by program is : 262 sec
+number of request=1 number of processes=4 Time taken by program is : 42 sec
+number of request=2 number of processes=4 Time taken by program is : 44 sec
+number of request=4 number of processes=4 Time taken by program is : 62 sec
+number of request=6 number of processes=4 Time taken by program is : 87 sec
+number of request=8 number of processes=4 Time taken by program is : 115 sec
+number of request=9 number of processes=4 Time taken by program is : 142 sec
+number of request=1 number of processes=6 Time taken by program is : 76 sec
+number of request=2 number of processes=6 Time taken by program is : 93 sec
+number of request=4 number of processes=6 Time taken by program is : 121 sec
+number of request=6 number of processes=6 Time taken by program is : 121 sec
+number of request=8 number of processes=6 
+number of request=9 number of processes=6 Time taken by program is : 156 sec
+
+

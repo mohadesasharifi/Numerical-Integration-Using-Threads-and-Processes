@@ -1,0 +1,20 @@
+number of request=1 number of threads=2 Time taken by program is : 33 sec
+number of request=2 number of threads=2 Time taken by program is : 89 sec
+number of request=4 number of threads=2 Time taken by program is : 132 sec
+number of request=6 number of threads=2 Time taken by program is : 169 sec
+number of request=8 number of threads=2 Time taken by program is : 192 sec
+number of request=9 number of threads=2 Time taken by program is : 201 sec
+number of request=1 number of threads=4 Time taken by program is : 13 sec
+number of request=2 number of threads=4 Time taken by program is : 52 sec
+number of request=4 number of threads=4 Time taken by program is : 109 sec
+number of request=6 number of threads=4 Time taken by program is : 141 sec
+number of request=8 number of threads=4 Time taken by program is : 147 sec
+number of request=9 number of threads=4 Time taken by program is : 152 sec
+number of request=1 number of threads=6 Time taken by program is : 11 sec
+number of request=2 number of threads=6 Time taken by program is : 30 sec
+number of request=4 number of threads=6 Time taken by program is : 44 sec
+number of request=6 number of threads=6 Time taken by program is : 47 sec
+number of request=8 number of threads=6 Time taken by program is : 65 sec
+number of request=9 number of threads=6 Time taken by program is : 63 sec
+
+
